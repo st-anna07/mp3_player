@@ -47,7 +47,6 @@ def equal_button():
 #asdfghjklö
 ​
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>menubar>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-menubar = Menu(cal, bg="black", fg="grey")
 ​
 filemenu = Menu(menubar, tearoff=0, bg="black", fg="white")
 filemenu.add_command(label="Cut", accelerator="Ctrl+X")
