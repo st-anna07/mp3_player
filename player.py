@@ -43,8 +43,8 @@ def equal_button():
     except:
         result = "_ERROR_"
         inputText.set(result)
-
-
+#asdfghj
+#asdfghjklö
 ​
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>menubar>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 menubar = Menu(cal, bg="black", fg="grey")
